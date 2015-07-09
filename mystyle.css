@@ -1,0 +1,26 @@
+body {background-color: yellow;}
+
+h1 {color: red; 
+	text-align: center;
+	font-size: 2.5em /* 40px/16=2.5em */
+	}
+
+p {background-color: blue; 
+	color: white;
+	text-align: left;
+	}
+
+ul.shakes {list-style-position: inside;
+			text-align: center;
+			}
+
+p.ex {background-color: orange;
+	color: blue;
+	text-align: right;
+	font-size: 4em /* 60/16=4em */
+	}
+
+p.info {background-color:yellow;
+	color: red
+	}
+
